@@ -35,7 +35,7 @@
                        </UpdateParameters>
                    </asp:SqlDataSource>
 
-                   Nguyễn Quang Phú!</div>
+                   Nguyễn Quang Phú</div>
             </div>
          </div>
       </section>
